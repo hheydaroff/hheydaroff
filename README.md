@@ -13,11 +13,11 @@ Welcome to my GitHub! I'm passionate about building AI-powered products and data
 
 ### 🛠️ Tech Stack
 ```
-Languages:     Python | SQL | Scala | R
+Languages:     Python | SQL | R
 Cloud & Data:  AWS | Azure | Databricks | dbt | Airflow
 BI Tools:      Power BI | Superset | Tableau
-ML/AI:         TensorFlow | PyTorch | Scikit-learn | Transformers
-Product:       Jira | Confluence | Miro | Figma
+ML/AI:         PyTorch | Scikit-learn | Transformers | Agentic Frameworks
+Product:       Jira | Confluence | Miro | SCRUM | Github 
 ```
 
 ### 📊 Recent Achievements
