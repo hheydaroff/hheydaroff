@@ -1,7 +1,7 @@
 
 # Hi there! 👋 I'm Hido
 
-## 🚀 AI & Data Product Manager | Turning Data into Impact
+## 🚀 AI & Data Product Leader | Turning Data into Impact
 
 Welcome to my GitHub! I'm passionate about building AI-powered products and data solutions that drive real business value. 
 
