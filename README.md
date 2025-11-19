@@ -122,7 +122,7 @@ Business Intelligence:
 **Ready to transform your organization's data strategy?**
 
 [![Portfolio](https://img.shields.io/badge/Website-4ECDC4?style=for-the-badge&logo=github)](https://github.com/heyhido)
-[![Contact](https://img.shields.io/badge/Let's_Connect-FF6B6B?style=for-the-badge&logo=mail)](mailto:heyhido@duck.com)
+[![Contact](https://img.shields.io/badge/Let's_Connect-FF6B6B?style=for-the-badge&logo=mail)](mailto:contact@heyhido.com)
 
 *Feel free to explore my profile and don't hesitate to reach out for collaborations!*
 
